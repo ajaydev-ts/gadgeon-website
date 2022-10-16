@@ -1,0 +1,29 @@
+body{
+    height: 800px;
+    background-color: rgb(244, 177, 52);
+    
+}
+.img1{
+    float: left;
+    position: absolute;
+    margin-left: 200px;
+}
+.img2{
+    float: left;
+    position: absolute;
+    margin-left: 600px;
+
+}
+
+.img3{
+    float: left;
+    position: absolute;
+    margin-left: 1000px;
+
+}
+.para{
+    padding-top: 500px;
+}
+h1{
+    text-align: center;
+}
